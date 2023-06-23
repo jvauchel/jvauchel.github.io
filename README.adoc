@@ -1,0 +1,25 @@
+= Johanna Vauchel
+:toc: left
+:icons: font
+
+== Presentation
+
+icon:linkedin[] https://fr.linkedin.com/in/johanna-vauchel-05576a78
+
+icon:github[] https://github.com/jvauchel
+
+== Open Source and conferences
+
+=== Kapoeira
+
+* Sources : https://github.com/lectra-tech/kapoeira
+* Slides : https://jvauchel.github.io/kapoeira-dance/
+* Resources : https://github.com/jvauchel/kapoeira-dance
+
+=== Apprends à dompter la data sans douter de toi !
+
+* Slides : https://jvauchel.github.io/dompter-data-talk-2023/
+* Resources : https://github.com/jvauchel/dompter-data-talk-2023
+* Pitch : https://youtu.be/yKEvZEYXwOU
+
+
