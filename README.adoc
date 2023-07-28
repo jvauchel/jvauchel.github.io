@@ -16,7 +16,7 @@ icon:github[] https://github.com/jvauchel
 * Slides : https://jvauchel.github.io/kapoeira-dance/
 * Resources : https://github.com/jvauchel/kapoeira-dance
 
-=== Apprends à dompter la data sans douter de toi !
+=== Apprends à dompter la Data sans douter de toi !
 
 * Slides : https://jvauchel.github.io/dompter-data-talk-2023/
 * Resources : https://github.com/jvauchel/dompter-data-talk-2023
@@ -24,4 +24,21 @@ icon:github[] https://github.com/jvauchel
 
 video::vQ5pa_EAh_M[youtube]
 
+=== Conférences à venir
 
+== Jug Summer Camp - 8 septembre 2023
+
+https://www.jugsummercamp.org/edition/14/presentations/Om1q9xm6NNHtObNxLP5H
+
+== Tremplin Bordelais - 26 septembre 2023
+
+https://craftsrecords.org/le-tremplin-bordelais
+
+== TADx - Ocobre 2023
+
+https://www.tadx.fr/
+
+== Archives web
+
+* Web site 2014 : https://vaucheljohanna.wixsite.com/resume
+* Blog 2017 : http://couturebling.canalblog.com/
