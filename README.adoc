@@ -20,6 +20,8 @@ icon:github[] https://github.com/jvauchel
 
 * Slides : https://jvauchel.github.io/dompter-data-talk-2023/
 * Resources : https://github.com/jvauchel/dompter-data-talk-2023
-* Pitch : https://youtu.be/yKEvZEYXwOU
+* Pitch : 
+
+video::vQ5pa_EAh_M[youtube]
 
 
