@@ -8,37 +8,53 @@ icon:linkedin[] https://fr.linkedin.com/in/johanna-vauchel-05576a78
 
 icon:github[] https://github.com/jvauchel
 
-== Open Source and conferences
+== Talks
 
-=== Kapoeira
+=== Apprends à dompter la Data sans douter de toi !
 
+* Pitch : 
+
+video::vQ5pa_EAh_M[youtube]
+* Video : 
+
+video::-q2JKXsSKAY?si=Xdu50igg2OdblGYj[youtube]
+
+* Slides : https://jvauchel.github.io/dompter-data-talk-2023/
+* Resources : https://github.com/jvauchel/dompter-data-talk-2023
+
+
+=== 🕺 Youpi dansons la Kapoeira ! 💃
+
+Presentation of a Kafka integration test tool
+
+* Video : à venir
 * Sources : https://github.com/lectra-tech/kapoeira
 * Slides : https://jvauchel.github.io/kapoeira-dance/
 * Resources : https://github.com/jvauchel/kapoeira-dance
 
-=== Apprends à dompter la Data sans douter de toi !
+== Events
 
-* Slides : https://jvauchel.github.io/dompter-data-talk-2023/
-* Resources : https://github.com/jvauchel/dompter-data-talk-2023
-* Pitch : 
-
-video::vQ5pa_EAh_M[youtube]
-
-=== Conférences à venir
-
-== Jug Summer Camp - 8 septembre 2023
+=== Jug Summer Camp - 8 septembre 2023
 
 https://www.jugsummercamp.org/edition/14/presentations/Om1q9xm6NNHtObNxLP5H
 
-== Tremplin Bordelais - 26 septembre 2023
+video::-q2JKXsSKAY?si=Xdu50igg2OdblGYj[youtube]
+
+=== Tremplin Bordelais - 26 septembre 2023
 
 https://craftsrecords.org/le-tremplin-bordelais
 
-== TADx - Ocobre 2023
+=== Agile Tour Bordeaux - 26/27 octobre 2023
+
+=== TADx - 13 novembre 2023
 
 https://www.tadx.fr/
 
-== Archives web
+== Articles
+
+https://tech-blog.lectra.com/article/795-discover-kapoeira-our-open-source-solution-test-kafka-streams
+
+== Web Archives 
 
 * Web site 2014 : https://vaucheljohanna.wixsite.com/resume
 * Blog 2017 : http://couturebling.canalblog.com/
