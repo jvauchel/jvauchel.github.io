@@ -15,6 +15,7 @@ icon:github[] https://github.com/jvauchel
 * Pitch : 
 
 video::vQ5pa_EAh_M[youtube]
+
 * Video : 
 
 video::-q2JKXsSKAY?si=Xdu50igg2OdblGYj[youtube]
@@ -45,7 +46,7 @@ video::-q2JKXsSKAY?si=Xdu50igg2OdblGYj[youtube]
 
 === Tremplin Bordelais - 26 septembre 2023
 
-https://craftsrecords.org/le-tremplin-bordelais
+video::3XqatOzeL-Y?si=AUbVWiMrDGX3frcv[youtube]
 
 === Webinar NAOS - Un Monde Ouvert - 28 septembre 2023
 
