@@ -56,13 +56,22 @@ video::tvyfoFBFBvM?si=n9MH49pZDCHHJUwg[youtube]
 
 https://agiletourbordeaux.fr/programme.html
 
+=== BDX I/O - 10 novembre 2023
+
+https://bdxio.fr/talks/614
+
 === TADx - 13 novembre 2023
 
 https://www.tadx.fr/
 
+=== Capitole du libre - 19 novembre 2023
+
+https://capitoledulibre.org/programme/
+
 == Articles
 
-https://tech-blog.lectra.com/article/795-discover-kapoeira-our-open-source-solution-test-kafka-streams
+* https://tech-blog.lectra.com/article/795-discover-kapoeira-our-open-source-solution-test-kafka-streams
+* https://tech-blog.lectra.com/article/796-comment-devenir-speaker-les-grandes-etapes
 
 == Web Archives 
 
