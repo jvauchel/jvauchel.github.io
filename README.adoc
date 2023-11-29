@@ -30,7 +30,7 @@ Presentation of a Kafka integration test tool
 
 * Video : 
 
-video::tvyfoFBFBvM?si=n9MH49pZDCHHJUwg[youtube]
+video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
 
 * Sources : https://github.com/lectra-tech/kapoeira
 * Slides : https://jvauchel.github.io/kapoeira-dance/
@@ -58,15 +58,21 @@ https://agiletourbordeaux.fr/programme.html
 
 === BDX I/O - 10 novembre 2023
 
-https://bdxio.fr/talks/614
+video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
 
 === TADx - 13 novembre 2023
 
-https://www.tadx.fr/
+video::5f29X4RiWCI?si=rG_fPRW6CHRZ-UfR[youtube]
 
 === Capitole du libre - 19 novembre 2023
 
 https://capitoledulibre.org/programme/
+
+=== SnowCamp 2024
+
+https://snowcamp.io/fr/
+
+https://snowcamp2024.sched.com/speaker/vauchel.johanna
 
 == Articles
 
