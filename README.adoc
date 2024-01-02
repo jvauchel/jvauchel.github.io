@@ -38,41 +38,60 @@ video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
 
 == Events
 
-=== Jug Summer Camp - 8 septembre 2023
+=== 2024
+
+==== Scala IO - 15 février 2024
+
+https://scala.io/
+
+==== SnowCamp - 2 février 2024
+
+https://snowcamp.io/fr/
+
+https://snowcamp2024.sched.com/speaker/vauchel.johanna
+
+=== 2023
+
+==== Capitole du libre - 19 novembre 2023
+
+https://capitoledulibre.org/programme/
+
+==== TADx - 13 novembre 2023
+
+video::5f29X4RiWCI?si=rG_fPRW6CHRZ-UfR[youtube]
+
+==== BDX I/O - 10 novembre 2023
+
+video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
+
+==== Agile Tour Bordeaux - 26 octobre 2023
+
+https://agiletourbordeaux.fr/programme.html
+
+==== Webinar NAOS - Un Monde Ouvert - 28 septembre 2023
+
+video::tvyfoFBFBvM?si=n9MH49pZDCHHJUwg[youtube]
+
+==== Tremplin Bordelais - 26 septembre 2023
+
+video::3XqatOzeL-Y?si=AUbVWiMrDGX3frcv[youtube]
+
+==== Jug Summer Camp - 8 septembre 2023
 
 https://www.jugsummercamp.org/edition/14/presentations/Om1q9xm6NNHtObNxLP5H
 
 video::-q2JKXsSKAY?si=Xdu50igg2OdblGYj[youtube]
 
-=== Tremplin Bordelais - 26 septembre 2023
 
-video::3XqatOzeL-Y?si=AUbVWiMrDGX3frcv[youtube]
 
-=== Webinar NAOS - Un Monde Ouvert - 28 septembre 2023
 
-video::tvyfoFBFBvM?si=n9MH49pZDCHHJUwg[youtube]
 
-=== Agile Tour Bordeaux - 26 octobre 2023
 
-https://agiletourbordeaux.fr/programme.html
 
-=== BDX I/O - 10 novembre 2023
 
-video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
 
-=== TADx - 13 novembre 2023
 
-video::5f29X4RiWCI?si=rG_fPRW6CHRZ-UfR[youtube]
 
-=== Capitole du libre - 19 novembre 2023
-
-https://capitoledulibre.org/programme/
-
-=== SnowCamp 2024
-
-https://snowcamp.io/fr/
-
-https://snowcamp2024.sched.com/speaker/vauchel.johanna
 
 == Articles
 
