@@ -40,9 +40,13 @@ video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
 
 === 2024
 
+==== DEVOXX - 17, 18, 19 avril 2024
+
+Coming Soon !
+
 ==== Scala IO - 15 février 2024
 
-https://scala.io/
+https://scala.io/talks/kapoeira-with-kafka-streams
 
 ==== SnowCamp - 2 février 2024
 
@@ -54,7 +58,7 @@ https://snowcamp2024.sched.com/speaker/vauchel.johanna
 
 ==== Capitole du libre - 19 novembre 2023
 
-https://capitoledulibre.org/programme/
+video::8EP-FgQzIO8[youtube]
 
 ==== TADx - 13 novembre 2023
 
