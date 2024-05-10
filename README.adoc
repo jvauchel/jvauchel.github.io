@@ -40,9 +40,14 @@ video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
 
 === 2024
 
-==== DEVOXX - 17, 18, 19 avril 2024
+==== Riviera Dev - 8, 9, 10 juillet 2024
 
-Coming Soon !
+https://www.rivieradev.fr/speaker/237
+https://www.rivieradev.fr/session/228
+
+==== DEVOXX France - 17, 18, 19 avril 2024
+
+video::ELFCAgdgSro[youtube]
 
 ==== Scala IO - 15 février 2024
 
