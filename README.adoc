@@ -30,7 +30,7 @@ Presentation of a Kafka integration test tool
 
 * Video : 
 
-video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
+video::ELFCAgdgSro[youtube]
 
 * Sources : https://github.com/lectra-tech/kapoeira
 * Slides : https://jvauchel.github.io/kapoeira-dance/
