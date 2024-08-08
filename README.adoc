@@ -42,8 +42,7 @@ video::ELFCAgdgSro[youtube]
 
 ==== Riviera Dev - 8, 9, 10 juillet 2024
 
-https://www.rivieradev.fr/speaker/237
-https://www.rivieradev.fr/session/228
+video::tgkyNvATdso?si=YDkfQBzsZxTmr0Xq[youtube]
 
 ==== DEVOXX France - 17, 18, 19 avril 2024
 
@@ -51,7 +50,7 @@ video::ELFCAgdgSro[youtube]
 
 ==== Scala IO - 15 février 2024
 
-https://scala.io/talks/kapoeira-with-kafka-streams
+video::BUQFj2jrGj8?si=pgBRQnJBFyL-Caj4[youtube]
 
 ==== SnowCamp - 2 février 2024
 
@@ -75,7 +74,7 @@ video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
 
 ==== Agile Tour Bordeaux - 26 octobre 2023
 
-https://agiletourbordeaux.fr/programme.html
+https://agiletourbordeaux.fr/evenements/atbdx-edition-2023/
 
 ==== Webinar NAOS - Un Monde Ouvert - 28 septembre 2023
 
